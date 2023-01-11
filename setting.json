@@ -1,0 +1,46 @@
+{
+    "title": "江米条の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "江米条,个人主页",
+    "author": "江米条",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "imsyy",
+    "logo_text_2": "top",
+    "github": "imsyy",
+    "qq": "192895580",
+    "email": "lxz122426@outlook.com",
+    "bilibili": "253088633",
+    "telegram": "@StarNameYi0",
+    "link_1": [
+        "建设",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "建设",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "建设",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "建设",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "建设",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "建设",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "江米条",
+    "beian": "无备案号"
+}
